@@ -27,9 +27,8 @@ This is a simple and elegant parallax effect website created using HTML and CSS.
    open index.html
    ```
 
-## Social Media
+## Ravi Kumar
 Connect with me on social media:
 - **GitHub:** [Ravi Kumar](https://github.com/mr-ravikumar)
 - **LinkedIn:** [Ravi Kumar](https://linkedin.com/in/mrravikumar)
-- **Twitter:** [Ravi Kumar](https://twitter.com/mrravikumar0)
 - **Portfolio:** [Ravi Kumar](https://www.mrravikumar.com)
