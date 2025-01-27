@@ -17,4 +17,3 @@ This is a simple and elegant parallax effect website created using HTML and CSS.
 - [GitHub](https://github.com/mr-ravikumar)    
 - [LinkedIn](https://linkedin.com/in/mrravikumar)  
 - [Portfolio](https://www.mrravikumar.com)
-- 
