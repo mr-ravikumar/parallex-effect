@@ -11,22 +11,6 @@ This is a simple and elegant parallax effect website created using HTML and CSS.
 - HTML
 - CSS
 
-## Setup and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/parallax-website.git
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd parallax-website
-   ```
-
-3. Open the `index.html` file in your preferred web browser:
-   ```bash
-   open index.html
-   ```
-
 ## Ravi Kumar
 Connect with me on social media:
 - **GitHub:** [Ravi Kumar](https://github.com/mr-ravikumar)
