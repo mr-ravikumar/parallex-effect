@@ -19,5 +19,4 @@ This is a simple and elegant parallax effect website created using HTML and CSS.
 - 📸 Instagram: [@dsa2web](https://www.instagram.com/dsa2web)
 - 🐦 Twitter: [@dsa2web](https://www.twitter.com/dsa2web)
 - 📩 LinkedIn Page: [dsa2web](https://www.linkedin.com/company/dsa2web)
-- 📌 Pinterest: [dsa2web](https://www.pinterest.com/dsa2web)
 - 📢 Telegram: [t.me/dsa2web](https://t.me/dsa2web)
